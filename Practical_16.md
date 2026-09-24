@@ -92,7 +92,7 @@ Follow these steps for **R0** and **R1**:
 |------|----|-----------------|
 | R0   | R1 | se0/0 ↔ se1/0   |
 
-<img width="579" height="343" alt="image" src="https://github.com/user-attachments/assets/23b4c3eb-771b-47a8-bacd-4882e84ba351" />
+<img width="956" height="614" alt="Image" src="https://github.com/user-attachments/assets/2ba057e7-f7b1-4954-8a82-7aaec82fb139" />
 
 ---
 
@@ -115,8 +115,9 @@ Go to **Desktop > IP Configuration** on each PC:
 | PC2 | 172.16.2.10  | 255.255.255.0   | 172.16.2.1        |
 | PC3 | 172.16.2.11  | 255.255.255.0   | 172.16.2.1        |
 
-<img width="499" height="362" alt="image" src="https://github.com/user-attachments/assets/f1f7be3d-de09-4f3f-9b73-e18a6d191f9c" />
 
+
+<img width="991" height="627" alt="Image" src="https://github.com/user-attachments/assets/1c6961c0-b97a-44a8-95af-efe3aa59bc58" />
 
 ```{admonition} Important
 :class: important
